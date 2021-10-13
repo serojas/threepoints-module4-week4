@@ -1,0 +1,41 @@
+.profile-header-container{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.profile-header-img {
+    padding: 20px;
+}
+
+.profile-header-img > img.img-circle {
+    width: 140px;
+    height: 140px;
+    border: 2px solid gray;
+    border-radius: 50%;
+}
+
+.profile-header {
+    margin-top: 43px;
+}
+
+
+.rank-label-container {
+    padding: 2em;   
+    text-align: justify;
+}
+
+.rank-label{
+    text-align: center;
+
+}
+
+.name-style {
+    font-weight: bold;
+    font-size: 20px        
+}
+
+.username-style {
+    font-weight: bold;
+    font-size: 16px;
+    color: sandybrown;
+}
